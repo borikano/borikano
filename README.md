@@ -1,6 +1,6 @@
 # Luis Henry Echeverry Ortiz
 
-**Operaciones IT | Data Analytics | Reporting operativo | KPIs & SLA | Calidad y validación de datos | SQL | Python | Power BI | IT Asset Management**
+**Operaciones IT | Data Analytics | Calidad y validación de datos | SQL | Python | Power BI | IT Asset Management | Control Interno | Gestión documental**
 
 Transformo operación, datos y trazabilidad en **visibilidad, control y soporte para la toma de decisiones**.
 

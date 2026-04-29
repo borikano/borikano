@@ -1,45 +1,8 @@
 # Luis Henry Echeverry Ortiz
 
-**Operaciones IT | Data Analytics | Reporting operativo | Calidad y validación de datos | SQL | Python | Power BI | IT Asset Management | Control Interno | Gestión documental**
+**Operaciones IT | Data Analytics | Reporting operativo | KPIs & SLA | Calidad y validación de datos | SQL | Python | Power BI | IT Asset Management**
 
-Transformo la operación diaria, los datos y la trazabilidad en **visibilidad, control y soporte útil para la toma de decisiones**.
-
----
-
-## Sobre mí
-
-Soy Profesional en Administración de Empresas con experiencia en **operaciones IT, reporting operativo, seguimiento de KPIs y SLA, trazabilidad operativa, control interno, gestión documental, soporte a usuarios y gestión de activos TI**.
-
-Mi enfoque está en convertir la operación diaria en **visibilidad, control y evidencia útil para la toma de decisiones**, fortaleciendo la continuidad operativa, la calidad de la información y la mejora de procesos.
-
-He trabajado en monitoreo operativo, reportes intradía, validación y carga de bases de datos, seguimiento de incidencias, control de requerimientos y gestión regional de activos y recursos TI para operación en **Chile, Perú y Colombia**, con trazabilidad sobre más de **15.000 activos** entre infraestructura y equipos de cómputo, incluyendo inventarios, garantías, logística y evidencia para auditorías.
-
-Actualmente fortalezco mi perfil en **análisis de datos, automatización de controles, documentación técnica, SQL, Python, Power BI y desarrollo de software**.
-
----
-
-## Enfoque profesional
-
-| Área | Enfoque |
-|---|---|
-| Operaciones IT | Continuidad operativa, soporte, incidencias y seguimiento funcional |
-| Data Analytics | Análisis aplicado, validación de datos y lectura operativa de indicadores |
-| Reporting operativo | Reportes intradía, cierres, tableros e indicadores |
-| KPIs & SLA | Service level, adherence, occupancy, abandono, contactabilidad y forecast accuracy |
-| Calidad de datos | Validación, consistencia, trazabilidad y control de información |
-| IT Asset Management | Inventario, trazabilidad, garantías, logística y control documental |
-| Control interno | Evidencias, auditoría, seguimiento, documentación y mejora continua |
-
----
-
-## Perfil en datos
-
-- Más de **15.000 activos TI** gestionados durante mi experiencia en IT Asset Management.
-- Cobertura regional en **Colombia, Chile y Perú**.
-- Experiencia en **GTR, Service Desk, inventario regional, reporting operativo y control documental**.
-- Seguimiento de indicadores como **SLA, service level, adherence, occupancy, abandono, contactabilidad y forecast accuracy**.
-- Formación complementaria en **Power BI, SQL, Python, auditoría ISO, gestión de proyectos y herramientas de IA**.
-- Enfoque profesional orientado a **calidad de datos, trazabilidad, soporte operativo y toma de decisiones**.
+Transformo operación, datos y trazabilidad en **visibilidad, control y soporte para la toma de decisiones**.
 
 ---
 
@@ -71,80 +34,46 @@ Actualmente fortalezco mi perfil en **análisis de datos, automatización de con
 
 ---
 
-## Proyectos destacados
+## Sobre mí
+
+Soy Profesional en Administración de Empresas con experiencia en **operaciones IT, reporting operativo, seguimiento de KPIs y SLA, validación de datos, control interno, gestión documental, Service Desk e IT Asset Management**.
+
+Mi enfoque combina experiencia operativa con analítica aplicada: entiendo los procesos, controlo la información, documento evidencias y construyo reportes que facilitan decisiones basadas en datos confiables.
+
+---
+
+## Lo que aporto
+
+- Conecto **operaciones IT, Data Analytics y reporting operativo** para convertir la información de la operación en visibilidad accionable.
+- Fortalezco el seguimiento de **KPIs & SLA** mediante control intradía, análisis de desvíos, validación de datos y trazabilidad operativa.
+- Apoyo la toma de decisiones con reportes, tableros e indicadores construidos desde **Power BI, SQL, Python y Excel avanzado**.
+- Aporto control, orden y soporte documental en procesos de **IT Asset Management**, inventarios, activos TI, garantías y evidencias.
+- Trabajo de forma transversal con operación, tecnología y áreas de soporte, manteniendo foco en **calidad de datos, continuidad operativa y mejora de procesos**.
+
+---
+
+## Experiencia destacada
+
+- Gestión de más de **15.000 activos TI** con cobertura en **Colombia, Chile y Perú**.
+- Seguimiento de indicadores como **service level, adherence, occupancy, abandono, contactabilidad y forecast accuracy**.
+- Elaboración de reportes operativos en **Excel avanzado y Power BI** para apoyar decisiones intradía.
+- Soporte a usuarios, priorización de tickets, control de incidencias y trazabilidad documental.
+
+---
+
+## Proyecto destacado
 
 ### Proyecto BeTek Call
-
-Proyecto orientado al análisis aplicado de datos, documentación y presentación de hallazgos dentro del proceso formativo de empleabilidad y analítica.
-
-**Enfoque:** análisis de datos, documentación, presentación ejecutiva y empleabilidad.
-
----
-
-### MLB T Proyecto
-
-Proyecto de práctica en JavaScript orientado al fortalecimiento técnico y al desarrollo de habilidades de programación.
-
-**Enfoque:** JavaScript, lógica de programación, práctica técnica y control de versiones.
-
----
-
-### 01 Conexión GitHub
-
-Repositorio de práctica para consolidar el uso de GitHub, documentación técnica y control de versiones.
-
-**Enfoque:** GitHub, repositorios, README, commits y documentación.
-
----
-
-### Proyecto BeTek Call - Base recomendada
-
-Repositorio recomendado para documentar el estudio final de BeTek con estructura profesional.
-
-**Estructura sugerida:**
-
-```text
-Proyecto-Betek-Call/
-├── README.md
-├── datos/
-├── notebooks/
-├── reportes/
-├── presentacion/
-└── documentacion/
-```
+Análisis aplicado de datos, documentación y presentación de hallazgos dentro del proceso formativo de empleabilidad y analítica.
 
 ---
 
 ## Actualmente fortaleciendo
 
-- Tecnólogo en Análisis y Desarrollo de Software - SENA.
-- Análisis de Datos y Herramientas de IA - Makaia / BeTek.
-- Power BI, SQL y Python aplicados a reporting y análisis operativo.
+- Análisis de datos aplicado a operación y reporting.
+- Análisis y Desarrollo de Software mediante formación SENA.
+- Automatización de controles y documentación técnica.
 - Fundamentos de Databricks, AWS y PySpark.
-- Documentación técnica y control de versiones con GitHub.
-- Automatización de controles y mejora de procesos mediante herramientas de datos.
-
----
-
-## Áreas objetivo
-
-- Operations Analyst
-- Reporting Analyst
-- Data Operations Analyst
-- Analista de Operaciones IT
-- Analista de Control Operativo
-- GTR / Workforce Support
-- IT Asset Management Analyst
-- BI / Reporting Analyst
-- Data Analyst junior con foco operativo
-
----
-
-## Mi propuesta de valor
-
-Aporto una combinación de **experiencia operativa, criterio de control, trazabilidad documental y analítica aplicada** para mejorar la visibilidad de procesos, facilitar el seguimiento de indicadores y apoyar decisiones basadas en información confiable.
-
-**No solo analizo datos: entiendo la operación detrás de ellos.**
 
 ---
 
